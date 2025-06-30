@@ -8,12 +8,11 @@
 
 ## Your Group (*Update this Information*)
 
-Submitted by Group XX:
+Submitted by Group 09:
 
-- Name1
-- Name2
-- Name3
-- Name4
+- Vu Thanh An
+- Chhaya Tamang
+- Rohan Gadgil
 
 By submitting this exercise, you confirm the following:
 
